@@ -26,7 +26,7 @@
   --switch-bg-url: url(./Assets/Sun.svg);
 }
 
-body{
+body {
 
   /*
   background-image: url(./Assets/bg-mobile.jpg);
@@ -36,9 +36,13 @@ body{
   */
 
   background: var(--bg-url) no-repeat top center/cover;
-  font-family: 'Inter', sans-serif;
-  color: var(--text-color)
+  height: 100vh;
 } 
+
+body * {
+  font-family: 'Inter', sans-serif;
+  color: var(--text-color);
+}
 
 
 #container {
@@ -172,3 +176,15 @@ footer {
  font-size: 15px;
 
 }
+
+/*media queries*/
+@media (min-width:700px ){
+   :root {
+     --bg-url: url(Assets/bg-desktop.jpg)
+   }
+
+   .light {
+     --bg-url:url(Assets/bg-desktop-light.jpg)
+   }
+  }
+
