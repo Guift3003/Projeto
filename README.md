@@ -39,6 +39,12 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
+## 🤖 Skils
+
+Neste projeto desenvolvi minhas habilidades de front-and com HTML e CSS, e também back-and com JavaScript.
+Foi possível compreender de maneira clara que HTML é uma linguagem de marcação de texto, CSS estilização, e JS uma linguagem de programação.
+
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
